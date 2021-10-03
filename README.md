@@ -1,2 +1,1 @@
-# customHook
-Created with CodeSandbox
+jsonPlaceholderからuser情報をパチってくるカスタムフック
